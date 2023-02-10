@@ -20,7 +20,7 @@ LICENSE: [MIT](license.md)
 10. [Основы слияния](./git_merge.md)
 11. [Конфликты](./conflict.md)
 12. [Перебазирование](./git_rebase.md)
-13. [Припрятывание и очистка](./git_stash.md)
+13. [Припрятывание](./git_stash.md)
 14. [Используемый источник](./git_documentation.md)
 ---
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, 
